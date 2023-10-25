@@ -1,0 +1,94 @@
+/* tags  */
+body {
+    background-color: #fff2d3;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-family: 'Sonsie One', cursive;
+    color: #8995FF;
+    font-size: 80px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-shadow: 6px 5px 5px rgb(178, 177, 177);
+    stroke: black;
+    stroke-width: 10px;
+}
+
+
+/* Class  */
+.topbar {
+    position: absolute;
+    width: 100%;
+    height: 110px;
+    margin-top: 0;
+}
+
+.dot {
+    height: 90px;
+    width: 90px;
+    margin-top: 1%;
+    margin-left: 3%;
+    background-color: #CC99FF;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    opacity: 83%;
+}
+
+.big {
+    color: #8995FF;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 1px;
+    text-shadow: 6px 5px 5px rgb(178, 177, 177);
+}
+
+.info1 {
+
+    height: 500px;
+    width: 100%;
+
+
+}
+
+/* Id  */
+#kirbSurf {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+    display: inline-block;
+}
+
+#kirbBop {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    overflow: hidden;
+    display: inline-block;
+    opacity: 100%;
+
+}
+
+#old {
+    margin-left: 6%;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+}
+
+#oldT {
+    margin-left: 15%;
+    font-size: 23px;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    font-family: 'Yomogi', cursive;}
